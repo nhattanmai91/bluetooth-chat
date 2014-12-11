@@ -1,0 +1,1 @@
+/home/tan/Desktop/blueterm_1.1.1/build/intermediates/classes/debug
